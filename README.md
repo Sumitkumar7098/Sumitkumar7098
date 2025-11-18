@@ -8,7 +8,7 @@
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Innovating+Web+Solutions+with+a+Blend+of+Creativity+and+Logic.;Frontend+Developer+with+a+Passion+for+C%2B%2B+Logic.;Turning+Designs+into+Functional+Masterpieces.&center=true&size=11" alt="Typing SVG" /></a>
 </p>
 <p  align="center">
-   <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" height="300">
+   <img src="https://github.com/Sumitkumar7098/sumit-portfolio/blob/main/Developer%20Front%20End.gif?raw=true" width="400">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
