@@ -12,4 +12,84 @@
 
 </div>
 
+<br>
+
+<h2 align="center">☁️ 3D CLOUD & DEVOPS ARCHITECTURE</h2>
+
+<div align="center">
+
+```text
+                         ☁️ AWS CLOUD
+                              │
+                              ▼
+                    ┌──────────────────┐
+                    │       VPC        │
+                    │   10.0.0.0/16    │
+                    └────────┬─────────┘
+                             │
+                ┌────────────┴────────────┐
+                │                         │
+                ▼                         ▼
+        🌐 PUBLIC SUBNET          🔒 PRIVATE SUBNET
+                │                         │
+                ▼                         ▼
+              EC2                       RDS
+                │
+                ▼
+        ┌───────────────┐
+        │    DOCKER     │
+        │   CONTAINER   │
+        └───────┬───────┘
+                │
+                ▼
+        ┌───────────────┐
+        │  KUBERNETES   │
+        │    ☸️ EKS     │
+        └───────┬───────┘
+                │
+                ▼
+        ┌───────────────┐
+        │    JENKINS    │
+        │     CI/CD     │
+        └───────┬───────┘
+                │
+                ▼
+             🚀 DEPLOY
+
+</div>
+
+
+<h2 align="center">🔄 DEVOPS PIPELINE</h2>
+
+<div align="center">
+
+👨‍💻 CODE
+   │
+   ▼
+🐙 GITHUB
+   │
+   ▼
+🔄 JENKINS
+   │
+   ▼
+🧪 TEST
+   │
+   ▼
+🐳 DOCKER
+   │
+   ▼
+📦 DOCKER HUB
+   │
+   ▼
+☸️ KUBERNETES
+   │
+   ▼
+☁️ AWS
+   │
+   ▼
+🚀 PRODUCTION
+
+</div>
+```
+
 
