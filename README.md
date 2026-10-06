@@ -14,6 +14,30 @@
 
 <br>
 
+<br>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/assets/line.gif" width="100%">
+
+<br><br>
+
+<img src="https://user-images.githubusercontent.com/74038190/216656981-7f8e5d2d-8a6d-4c8d-9f6b-4b9f5f5d3c7a.gif" width="500"/>
+
+<br><br>
+
+<h2>☁️ CLOUD ENGINEER × DEVOPS ENGINEER</h2>
+
+<p>
+Building • Automating • Deploying • Monitoring
+</p>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,jenkins,linux,git,github" />
+
+</div>
+
 <h2 align="center">☁️ 3D CLOUD & DEVOPS ARCHITECTURE</h2>
 
 <div align="center">
