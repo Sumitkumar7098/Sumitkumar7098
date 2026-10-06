@@ -1,92 +1,80 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0ea5e9,100:6366f1&height=220&section=header&text=SUMIT%20KUMAR&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Cloud%20Engineer%20%7C%20DevOps%20Engineer&descAlignY=58&descSize=22&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:0369a1&height=230&section=header&text=SUMIT%20KUMAR&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20Engineer%20%7C%20DevOps%20Engineer&descSize=20&descAlignY=60" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=850&lines=Cloud+Engineer;DevOps+Engineer;AWS+%7C+Terraform+%7C+Docker;Kubernetes+%7C+Jenkins+%7C+CI%2FCD;Building+Cloud+Infrastructure;Automating+Everything" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=800&lines=Cloud+Engineer+%7C+DevOps+Engineer;AWS+%7C+Terraform+%7C+Docker+%7C+Kubernetes;Jenkins+%7C+CI%2FCD+%7C+Linux+%7C+Git;Building+Cloud+Infrastructure+%26+Automation" />
 
 <br><br>
 
 <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,jenkins,linux,git,github" />
 
-</div>
-
-<br>
-
-<br>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/assets/line.gif" width="100%">
-
 <br><br>
 
-<img src="https://user-images.githubusercontent.com/74038190/216656981-7f8e5d2d-8a6d-4c8d-9f6b-4b9f5f5d3c7a.gif" width="500"/>
-
-<br><br>
-
-<h2>☁️ CLOUD ENGINEER × DEVOPS ENGINEER</h2>
-
-<p>
-Building • Automating • Deploying • Monitoring
-</p>
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,jenkins,linux,git,github" />
+<img src="https://komarev.com/ghpvc/?username=sumit7098&label=PROFILE%20VIEWS&color=0ea5e9&style=for-the-badge" />
 
 </div>
 
-<h2 align="center">☁️ 3D CLOUD & DEVOPS ARCHITECTURE</h2>
+---
+
+## 👨‍💻 About Me
+
+I'm **Sumit Kumar**, a Cloud & DevOps Engineer focused on building cloud infrastructure, automating deployments and learning modern DevOps practices.
+
+```text
+☁️ Cloud Infrastructure
+🏗️ Infrastructure as Code
+🐳 Containerization
+☸️ Kubernetes
+🔄 CI/CD Automation
+🐧 Linux & System Administration
+```
+
+---
+
+## ☁️ Cloud Architecture
 
 <div align="center">
 
 ```text
-                         ☁️ AWS CLOUD
-                              │
-                              ▼
-                    ┌──────────────────┐
-                    │       VPC        │
-                    │   10.0.0.0/16    │
-                    └────────┬─────────┘
-                             │
-                ┌────────────┴────────────┐
-                │                         │
-                ▼                         ▼
-        🌐 PUBLIC SUBNET          🔒 PRIVATE SUBNET
-                │                         │
-                ▼                         ▼
-              EC2                       RDS
+                         ☁️ AWS
+                          │
+                          ▼
+                    ┌───────────┐
+                    │    VPC    │
+                    └─────┬─────┘
+                          │
+                ┌─────────┴─────────┐
+                ▼                   ▼
+          🌐 Public             🔒 Private
+           Subnet                Subnet
+                │                   │
+                ▼                   ▼
+               EC2                 RDS
                 │
                 ▼
-        ┌───────────────┐
-        │    DOCKER     │
-        │   CONTAINER   │
-        └───────┬───────┘
+             🐳 Docker
                 │
                 ▼
-        ┌───────────────┐
-        │  KUBERNETES   │
-        │    ☸️ EKS     │
-        └───────┬───────┘
+          ☸️ Kubernetes
                 │
                 ▼
-        ┌───────────────┐
-        │    JENKINS    │
-        │     CI/CD     │
-        └───────┬───────┘
+          🔄 Jenkins CI/CD
                 │
                 ▼
-             🚀 DEPLOY
+             🚀 Deploy
+```
 
 </div>
 
+---
 
-<h2 align="center">🔄 DEVOPS PIPELINE</h2>
+## 🔄 DevOps Pipeline
 
 <div align="center">
 
+```text
 👨‍💻 CODE
    │
    ▼
@@ -102,9 +90,6 @@ Building • Automating • Deploying • Monitoring
 🐳 DOCKER
    │
    ▼
-📦 DOCKER HUB
-   │
-   ▼
 ☸️ KUBERNETES
    │
    ▼
@@ -112,258 +97,163 @@ Building • Automating • Deploying • Monitoring
    │
    ▼
 🚀 PRODUCTION
-
-</div>
 ```
 
+</div>
 
-<br>
+---
 
-<h2 align="center">📊 GITHUB ANALYTICS</h2>
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sumit7098&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
+### ☁️ Cloud
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit7098&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://skillicons.dev/icons?i=aws" />
+
+<br><br>
+
+### 🏗️ Infrastructure & DevOps
+
+<img src="https://skillicons.dev/icons?i=terraform,docker,kubernetes,jenkins,linux,nginx" />
+
+<br><br>
+
+### 🔧 Development & Version Control
+
+<img src="https://skillicons.dev/icons?i=git,github,java,python,nodejs,mysql" />
 
 </div>
 
-<br>
+---
+
+## 🚀 Featured Projects
 
 <div align="center">
+
+### ☁️ Terraform AWS Infrastructure
+
+**AWS + Terraform**
+
+VPC • Subnet • Internet Gateway • Route Table • Security Group • EC2
+
+<br>
+
+### 🔄 AI Powered CI/CD Pipeline
+
+**Jenkins + Docker + GitHub + AI**
+
+Automated build • testing • containerization • deployment
+
+<br>
+
+### ☸️ Kubernetes Microservices
+
+**Docker + Kubernetes**
+
+Pods • Deployments • Services • Ingress • Containerized Applications
+
+<br>
+
+### 🧠 NexaAI
+
+**AI + Docker + Terraform + AWS**
+
+Personal AI assistant with a Cloud & DevOps deployment architecture.
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sumit7098&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit7098&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+<br><br>
 
 <img src="https://streak-stats.demolab.com?user=sumit7098&theme=tokyonight&hide_border=true" width="70%"/>
 
 </div>
 
-<br>
+---
 
-<h2 align="center">📈 CONTRIBUTION GRAPH</h2>
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sumit7098&bg_color=0d1117&color=00d9ff&line=6366f1&point=ffffff&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sumit7098&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 
 </div>
 
-<br>
+---
 
-<h2 align="center">🚀 FEATURED CLOUD & DEVOPS PROJECTS</h2>
-
-<br>
-
-<table align="center">
-<tr>
-
-<td width="50%" valign="top">
-
-<h3 align="center">☁️ Terraform AWS Infrastructure</h3>
+## 🎯 Currently Learning
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=terraform,aws" />
-
-</div>
-
-<br>
-
-<p align="center">
-Infrastructure as Code project using Terraform to provision AWS resources.
-</p>
-
-<ul>
-<li>VPC</li>
-<li>Public Subnet</li>
-<li>Internet Gateway</li>
-<li>Route Table</li>
-<li>Security Group</li>
-<li>EC2</li>
-</ul>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3 align="center">🔄 AI Powered CI/CD</h3>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=jenkins,docker,github" />
-
-</div>
-
-<br>
-
-<p align="center">
-Automated CI/CD pipeline integrating AI, Jenkins, Docker and GitHub.
-</p>
-
-<ul>
-<li>GitHub</li>
-<li>Jenkins</li>
-<li>Docker</li>
-<li>Automated Build</li>
-<li>Testing</li>
-<li>Deployment</li>
-</ul>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3 align="center">☸️ Kubernetes Deployment</h3>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=kubernetes,docker,aws" />
-
-</div>
-
-<br>
-
-<p align="center">
-Containerized application deployment using Docker and Kubernetes.
-</p>
-
-<ul>
-<li>Docker Containers</li>
-<li>Kubernetes Pods</li>
-<li>Deployments</li>
-<li>Services</li>
-<li>Ingress</li>
-<li>Cluster Management</li>
-</ul>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3 align="center">🧠 NexaAI</h3>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,docker,aws,terraform" />
-
-</div>
-
-<br>
-
-<p align="center">
-Personal AI Assistant with a complete Cloud & DevOps deployment architecture.
-</p>
-
-<ul>
-<li>AI Application</li>
-<li>Docker</li>
-<li>Terraform</li>
-<li>Jenkins CI/CD</li>
-<li>AWS</li>
-<li>Cloud Deployment</li>
-</ul>
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<div align="center">
-
-### ⚡ BUILD → TEST → CONTAINERIZE → DEPLOY
 
 ```text
-👨‍💻 CODE
-   ↓
-🐙 GITHUB
-   ↓
-🔄 JENKINS
-   ↓
-🧪 TEST
-   ↓
-🐳 DOCKER
-   ↓
-☸️ KUBERNETES
-   ↓
-☁️ AWS
-   ↓
-🚀 PRODUCTION
-
-<br>
-
-<h2 align="center">🏆 CERTIFICATIONS & LEARNING</h2>
-
-<div align="center">
-
-| Certification / Skill | Status |
-|---|---|
-| ☁️ AWS Cloud | 🟢 Learning |
-| 🏗️ Terraform | 🟢 Hands-on |
-| 🐳 Docker | 🟢 Hands-on |
-| ☸️ Kubernetes | 🟢 Hands-on |
-| 🔄 Jenkins & CI/CD | 🟢 Hands-on |
-| 🐧 Linux | 🟢 Learning |
-| 🔐 AWS IAM & Security | 🟢 Learning |
-| 📊 CloudWatch | 🟢 Learning |
+AWS
+ ↓
+Terraform
+ ↓
+Docker
+ ↓
+Jenkins
+ ↓
+Kubernetes
+ ↓
+AWS EKS
+ ↓
+Advanced CI/CD
+ ↓
+Cloud & DevOps Engineering
+```
 
 </div>
 
-<br>
+---
 
-<h2 align="center">🎯 CURRENTLY LEARNING</h2>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,jenkins,linux"/>
-
-<br><br>
-
-```text
-☁️ AWS Cloud
-      ↓
-🏗️ Terraform
-      ↓
-🐳 Docker
-      ↓
-☸️ Kubernetes
-      ↓
-🔄 Jenkins CI/CD
-      ↓
-🚀 Production DevOps
-
-</div>
-
-<h2 align="center">💡 MY DEVOPS PHILOSOPHY</h2>
+## 🏆 Skills Progress
 
 <div align="center">
 
-┌─────────────────────────────────────────┐
-│                                         │
-│   AUTOMATE  →  BUILD  →  TEST           │
-│                  ↓                      │
-│              DEPLOY                     │
-│                  ↓                      │
-│              MONITOR                    │
-│                  ↓                      │
-│              IMPROVE                    │
-│                                         │
-└─────────────────────────────────────────┘
+| Area | Focus |
+|:---:|:---:|
+| ☁️ AWS | █████████░ 90% |
+| 🏗️ Terraform | ████████░░ 80% |
+| 🐳 Docker | ████████░░ 80% |
+| 🔄 Jenkins | ███████░░░ 70% |
+| ☸️ Kubernetes | ███████░░░ 70% |
+| 🐧 Linux | ████████░░ 80% |
+| 🔀 Git/GitHub | █████████░ 90% |
 
 </div>
 
+---
 
-<h2 align="center">📫 CONNECT WITH ME</h2>
+## 💡 DevOps Mindset
+
+<div align="center">
+
+**BUILD → TEST → AUTOMATE → DEPLOY → MONITOR → IMPROVE**
+
+</div>
+
+---
+
+## 📫 Connect With Me
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/sumit7098/">
-<img src="https://img.shields.io/badge/LinkedIn-Sumit%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+&nbsp;
 
 <a href="https://www.behance.net/gallery/239537789/Portfolio">
 <img src="https://img.shields.io/badge/Portfolio-Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/>
@@ -371,9 +261,14 @@ Personal AI Assistant with a complete Cloud & DevOps deployment architecture.
 
 </div>
 
+<br>
 
 <div align="center">
 
-☁️ CLOUD ENGINEER • 🔧 DEVOPS ENGINEER • 🚀 AUTOMATION
+### ☁️ CLOUD ENGINEER &nbsp;•&nbsp; 🔧 DEVOPS ENGINEER &nbsp;•&nbsp; 🚀 AUTOMATION
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0369a1,50:0f172a,100:020617&height=120&section=footer" width="100%"/>
+
 </div>
-```
