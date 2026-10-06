@@ -270,4 +270,86 @@ Personal AI Assistant with a complete Cloud & DevOps deployment architecture.
    ↓
 🚀 PRODUCTION
 
+<br>
 
+<h2 align="center">🏆 CERTIFICATIONS & LEARNING</h2>
+
+<div align="center">
+
+| Certification / Skill | Status |
+|---|---|
+| ☁️ AWS Cloud | 🟢 Learning |
+| 🏗️ Terraform | 🟢 Hands-on |
+| 🐳 Docker | 🟢 Hands-on |
+| ☸️ Kubernetes | 🟢 Hands-on |
+| 🔄 Jenkins & CI/CD | 🟢 Hands-on |
+| 🐧 Linux | 🟢 Learning |
+| 🔐 AWS IAM & Security | 🟢 Learning |
+| 📊 CloudWatch | 🟢 Learning |
+
+</div>
+
+<br>
+
+<h2 align="center">🎯 CURRENTLY LEARNING</h2>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,jenkins,linux"/>
+
+<br><br>
+
+```text
+☁️ AWS Cloud
+      ↓
+🏗️ Terraform
+      ↓
+🐳 Docker
+      ↓
+☸️ Kubernetes
+      ↓
+🔄 Jenkins CI/CD
+      ↓
+🚀 Production DevOps
+
+</div>
+
+<h2 align="center">💡 MY DEVOPS PHILOSOPHY</h2>
+
+<div align="center">
+
+┌─────────────────────────────────────────┐
+│                                         │
+│   AUTOMATE  →  BUILD  →  TEST           │
+│                  ↓                      │
+│              DEPLOY                     │
+│                  ↓                      │
+│              MONITOR                    │
+│                  ↓                      │
+│              IMPROVE                    │
+│                                         │
+└─────────────────────────────────────────┘
+
+</div>
+
+
+<h2 align="center">📫 CONNECT WITH ME</h2>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/sumit7098/">
+<img src="https://img.shields.io/badge/LinkedIn-Sumit%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.behance.net/gallery/239537789/Portfolio">
+<img src="https://img.shields.io/badge/Portfolio-Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/>
+</a>
+
+</div>
+
+
+<div align="center">
+
+☁️ CLOUD ENGINEER • 🔧 DEVOPS ENGINEER • 🚀 AUTOMATION
+</div>
+```
