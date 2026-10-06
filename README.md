@@ -93,3 +93,34 @@
 ```
 
 
+<br>
+
+<h2 align="center">📊 GITHUB ANALYTICS</h2>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sumit7098&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit7098&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=sumit7098&theme=tokyonight&hide_border=true" width="70%"/>
+
+</div>
+
+<br>
+
+<h2 align="center">📈 CONTRIBUTION GRAPH</h2>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sumit7098&bg_color=0d1117&color=00d9ff&line=6366f1&point=ffffff&area=true&hide_border=true" width="95%"/>
+
+</div>
+
+
