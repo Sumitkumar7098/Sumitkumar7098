@@ -123,4 +123,151 @@
 
 </div>
 
+<br>
+
+<h2 align="center">🚀 FEATURED CLOUD & DEVOPS PROJECTS</h2>
+
+<br>
+
+<table align="center">
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">☁️ Terraform AWS Infrastructure</h3>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=terraform,aws" />
+
+</div>
+
+<br>
+
+<p align="center">
+Infrastructure as Code project using Terraform to provision AWS resources.
+</p>
+
+<ul>
+<li>VPC</li>
+<li>Public Subnet</li>
+<li>Internet Gateway</li>
+<li>Route Table</li>
+<li>Security Group</li>
+<li>EC2</li>
+</ul>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🔄 AI Powered CI/CD</h3>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=jenkins,docker,github" />
+
+</div>
+
+<br>
+
+<p align="center">
+Automated CI/CD pipeline integrating AI, Jenkins, Docker and GitHub.
+</p>
+
+<ul>
+<li>GitHub</li>
+<li>Jenkins</li>
+<li>Docker</li>
+<li>Automated Build</li>
+<li>Testing</li>
+<li>Deployment</li>
+</ul>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">☸️ Kubernetes Deployment</h3>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=kubernetes,docker,aws" />
+
+</div>
+
+<br>
+
+<p align="center">
+Containerized application deployment using Docker and Kubernetes.
+</p>
+
+<ul>
+<li>Docker Containers</li>
+<li>Kubernetes Pods</li>
+<li>Deployments</li>
+<li>Services</li>
+<li>Ingress</li>
+<li>Cluster Management</li>
+</ul>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🧠 NexaAI</h3>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,docker,aws,terraform" />
+
+</div>
+
+<br>
+
+<p align="center">
+Personal AI Assistant with a complete Cloud & DevOps deployment architecture.
+</p>
+
+<ul>
+<li>AI Application</li>
+<li>Docker</li>
+<li>Terraform</li>
+<li>Jenkins CI/CD</li>
+<li>AWS</li>
+<li>Cloud Deployment</li>
+</ul>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+### ⚡ BUILD → TEST → CONTAINERIZE → DEPLOY
+
+```text
+👨‍💻 CODE
+   ↓
+🐙 GITHUB
+   ↓
+🔄 JENKINS
+   ↓
+🧪 TEST
+   ↓
+🐳 DOCKER
+   ↓
+☸️ KUBERNETES
+   ↓
+☁️ AWS
+   ↓
+🚀 PRODUCTION
+
 
